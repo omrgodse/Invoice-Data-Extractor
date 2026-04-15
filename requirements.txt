@@ -1,0 +1,7 @@
+streamlit
+pandas
+groq
+Pillow
+pymupdf
+python-dotenv
+fitz
